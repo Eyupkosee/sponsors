@@ -7,9 +7,28 @@
       "entries": [
         {
           "id": 1,
-          "name": "Firma A",
-          "logo": "https://example.com/logo-firmaA.png",
-          "website": "https://firmaA.com"
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 2,
+          "logo": "https://www.tbd.org.tr/logolar/casper-logo.jpg",
+          "website": "https://www.casper.com.tr/"
+        },
+        {
+          "id": 3,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 4,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 5,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
       ]
     },
@@ -17,16 +36,29 @@
       "type": "Platin Sponsor",
       "entries": [
         {
-          "id": 2,
-          "name": "Firma B",
-          "logo": "https://example.com/logo-firmaB.png",
-          "website": "https://firmaB.com"
+          "id": 6,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 3,
-          "name": "Firma C",
-          "logo": "https://example.com/logo-firmaC.png",
-          "website": "https://firmaC.com"
+          "id": 7,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 8,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 9,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 10,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
       ]
     },
@@ -34,10 +66,29 @@
       "type": "Altın Sponsor",
       "entries": [
         {
-          "id": 4,
-          "name": "Firma D",
-          "logo": "https://example.com/logo-firmaD.png",
-          "website": "https://firmaD.com"
+          "id": 11,
+          "logo": "https://www.tbd.org.tr/logolar/turkkep-logo.jpg",
+          "website": "https://turkkep.com.tr/"
+        },
+        {
+          "id": 12,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 13,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 14,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 15,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
       ]
     },
@@ -45,10 +96,54 @@
       "type": "Gümüş Sponsor",
       "entries": [
         {
-          "id": 5,
-          "name": "Firma E",
-          "logo": "https://example.com/logo-firmaE.png",
-          "website": "https://firmaE.com"
+          "id": 16,
+          "logo": "https://www.tbd.org.tr/logolar/esri-turkiye-logo.jpg",
+          "website": "https://www.esri.com.tr/tr-tr/anasayfa"
+        },
+        {
+          "id": 17,
+          "logo": "https://www.tbd.org.tr/logolar/octox-labs-logo.jpg",
+          "website": "https://www.octoxlabs.com/"
+        },
+        {
+          "id": 18,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 19,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 20,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 21,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 22,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 23,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 24,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 25,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
       ]
     },
@@ -56,21 +151,104 @@
       "type": "Stant Sponsorları",
       "entries": [
         {
-          "id": 6,
-          "name": "Firma F",
-          "logo": "https://example.com/logo-firmaF.png",
-          "website": "https://firmaF.com"
-        }
+          "id": 26,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 27,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 28,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 29,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 30,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 31,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 32,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 33,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 34,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 35,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 36,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 36,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 37,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 38,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 39,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 40,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 41,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 42,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
       ]
     },
     {
       "type": "Çay-Kahve Sponsoru",
       "entries": [
         {
-          "id": 7,
-          "name": "Firma G",
-          "logo": "https://example.com/logo-firmaG.png",
-          "website": "https://firmaG.com"
+          "id": 43,
+          "logo": "https://www.tbd.org.tr/logolar/turkkep-logo.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
       ]
     },
@@ -78,10 +256,9 @@
       "type": "Yaka Kartı Sponsoru",
       "entries": [
         {
-          "id": 8,
-          "name": "Firma H",
-          "logo": "https://example.com/logo-firmaH.png",
-          "website": "https://firmaH.com"
+          "id":44,
+          "logo": "https://www.tbd.org.tr/logolar/asirdx-logo.jpg",
+          "website": "https://www.asirdx.com/tr-TR/AnaSayfa"
         }
       ]
     },
@@ -89,63 +266,84 @@
       "type": "Dijital Altın Rozet Sponsoru",
       "entries": [
         {
-          "id": 9,
-          "name": "Firma I",
-          "logo": "https://example.com/logo-firmaI.png",
-          "website": "https://firmaI.com"
-        }
+          "id": 45,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 46,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 47,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 48,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 49,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
       ]
     },
     {
       "type": "Dijital Gümüş Rozet Sponsoru",
       "entries": [
         {
-          "id": 10,
-          "name": "Firma J",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 50,
+          "logo": "hhttps://tbd.org.tr/logolar/fortinet-logo.jpg",
+          "website": "https://www.fortinet.com/"
         },
         {
-          "id": 11,
-          "name": "Firma Ja",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 51,
+          "logo": "https://tbd.org.tr/logolar/gentel-logo.jpg",
+          "website": "https://www.gentel.com.tr/"
         },
         {
-          "id": 12,
-          "name": "Firma Js",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 52,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 13,
-          "name": "Firma Jd",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 53,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 14,
-          "name": "Firma Jf",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 54,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 15,
-          "name": "Firma Jg",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 55,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 16,
-          "name": "Firma Jh",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 56,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 17,
-          "name": "Firma Jj",
-          "logo": "https://example.com/logo-firmaJ.png",
-          "website": "https://firmaJ.com"
+          "id": 57,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 58,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 59,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
       ]
     }
