@@ -206,11 +206,6 @@
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 36,
-          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
-          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
-        },
-        {
           "id": 37,
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
@@ -240,13 +235,18 @@
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
+        {
+          "id": 43,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
       ]
     },
     {
       "type": "Çay-Kahve Sponsoru",
       "entries": [
         {
-          "id": 43,
+          "id": 44,
           "logo": "https://www.tbd.org.tr/logolar/turkkep-logo.jpg",
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
@@ -256,7 +256,7 @@
       "type": "Yaka Kartı Sponsoru",
       "entries": [
         {
-          "id":44,
+          "id":45,
           "logo": "https://www.tbd.org.tr/logolar/asirdx-logo.jpg",
           "website": "https://www.asirdx.com/tr-TR/AnaSayfa"
         }
@@ -265,11 +265,6 @@
     {
       "type": "Dijital Altın Rozet Sponsoru",
       "entries": [
-        {
-          "id": 45,
-          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
-          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
-        },
         {
           "id": 46,
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
@@ -290,25 +285,25 @@
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
+        {
+          "id": 50,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
       ]
     },
     {
       "type": "Dijital Gümüş Rozet Sponsoru",
       "entries": [
         {
-          "id": 50,
+          "id": 51,
           "logo": "hhttps://tbd.org.tr/logolar/fortinet-logo.jpg",
           "website": "https://www.fortinet.com/"
         },
         {
-          "id": 51,
+          "id": 52,
           "logo": "https://tbd.org.tr/logolar/gentel-logo.jpg",
           "website": "https://www.gentel.com.tr/"
-        },
-        {
-          "id": 52,
-          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
-          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
           "id": 53,
@@ -342,6 +337,11 @@
         },
         {
           "id": 59,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
+          "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
+        },
+        {
+          "id": 60,
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2023/04/bos-sponsor-192x192.jpg",
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         }
