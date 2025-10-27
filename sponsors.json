@@ -1,0 +1,111 @@
+{
+  "event": "Kamu-BİB’28 / BİMY’32 2025",
+  "year": 2025,
+  "sponsors": [
+    {
+      "type": "Ana Sponsor",
+      "entries": [
+        {
+          "id": 1,
+          "name": "Firma A",
+          "logo": "https://example.com/logo-firmaA.png",
+          "website": "https://firmaA.com"
+        }
+      ]
+    },
+    {
+      "type": "Platin Sponsor",
+      "entries": [
+        {
+          "id": 2,
+          "name": "Firma B",
+          "logo": "https://example.com/logo-firmaB.png",
+          "website": "https://firmaB.com"
+        },
+        {
+          "id": 3,
+          "name": "Firma C",
+          "logo": "https://example.com/logo-firmaC.png",
+          "website": "https://firmaC.com"
+        }
+      ]
+    },
+    {
+      "type": "Altın Sponsor",
+      "entries": [
+        {
+          "id": 4,
+          "name": "Firma D",
+          "logo": "https://example.com/logo-firmaD.png",
+          "website": "https://firmaD.com"
+        }
+      ]
+    },
+    {
+      "type": "Gümüş Sponsor",
+      "entries": [
+        {
+          "id": 5,
+          "name": "Firma E",
+          "logo": "https://example.com/logo-firmaE.png",
+          "website": "https://firmaE.com"
+        }
+      ]
+    },
+    {
+      "type": "Stant Sponsorları",
+      "entries": [
+        {
+          "id": 6,
+          "name": "Firma F",
+          "logo": "https://example.com/logo-firmaF.png",
+          "website": "https://firmaF.com"
+        }
+      ]
+    },
+    {
+      "type": "Çay-Kahve Sponsoru",
+      "entries": [
+        {
+          "id": 7,
+          "name": "Firma G",
+          "logo": "https://example.com/logo-firmaG.png",
+          "website": "https://firmaG.com"
+        }
+      ]
+    },
+    {
+      "type": "Yaka Kartı Sponsoru",
+      "entries": [
+        {
+          "id": 8,
+          "name": "Firma H",
+          "logo": "https://example.com/logo-firmaH.png",
+          "website": "https://firmaH.com"
+        }
+      ]
+    },
+    {
+      "type": "Dijital Altın Rozet Sponsoru",
+      "entries": [
+        {
+          "id": 9,
+          "name": "Firma I",
+          "logo": "https://example.com/logo-firmaI.png",
+          "website": "https://firmaI.com"
+        }
+      ]
+    },
+    {
+      "type": "Dijital Gümüş Rozet Sponsoru",
+      "entries": [
+        {
+          "id": 10,
+          "name": "Firma J",
+          "logo": "https://example.com/logo-firmaJ.png",
+          "website": "https://firmaJ.com"
+        }
+      ]
+    }
+  ]
+}
