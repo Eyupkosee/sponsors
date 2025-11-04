@@ -22,5 +22,53 @@
     "type": "duyuru",
     "link": "",
     "date": "2025-11-20"
+  },
+  {
+    "id": "4",
+    "title": "Yeni Anket Yayında!",
+    "subtitle": "TBD üyeleri için kısa bir memnuniyet anketine katılın.",
+    "type": "anket",
+    "link": "https://www.youtube.com/watch?v=9ASLyYUrhvY&list=RD9ASLyYUrhvY&start_radio=1&t=50s",
+    "date": "2025-11-04"
+  },
+  {
+    "id": "5",
+    "title": "TBD Genç Etkinliği Duyurusu",
+    "subtitle": "Ankara’da gerçekleşecek TBD Genç etkinliğimize tüm üyeler davetlidir.",
+    "type": "etkinlik",
+    "link": "",
+    "date": "2025-11-10"
+  },
+  {
+    "id": "6",
+    "title": "Yeni Bildiri Çağrısı!",
+    "subtitle": "2025 TBD Ulusal Bilişim Kurultayı için bildiri başvuruları başlamıştır.",
+    "type": "duyuru",
+    "link": "",
+    "date": "2025-11-20"
+  },
+  {
+    "id": "7",
+    "title": "Yeni Anket Yayında!",
+    "subtitle": "TBD üyeleri için kısa bir memnuniyet anketine katılın.",
+    "type": "anket",
+    "link": "https://www.linkedin.com/",
+    "date": "2025-11-04"
+  },
+  {
+    "id": "8",
+    "title": "TBD Genç Etkinliği Duyurusu",
+    "subtitle": "Ankara’da gerçekleşecek TBD Genç etkinliğimize tüm üyeler davetlidir.",
+    "type": "etkinlik",
+    "link": "",
+    "date": "2025-11-10"
+  },
+  {
+    "id": "9",
+    "title": "Yeni Bildiri Çağrısı!",
+    "subtitle": "2025 TBD Ulusal Bilişim Kurultayı için bildiri başvuruları başlamıştır.",
+    "type": "duyuru",
+    "link": "",
+    "date": "2025-11-20"
   }
 ]
