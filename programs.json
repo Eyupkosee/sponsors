@@ -1,0 +1,83 @@
+[
+  {
+    "key": "1. Gün",
+    "title": "1. Gün - 27 Kasım 2025",
+    "data": [
+      { "time": "14:00 – 24:00", "title": "Kayıt ve Otele Giriş", "type": "social" },
+      { "time": "15:00 – 18:00", "title": "Perge Antik Gezisi", "type": "social" },
+      { "time": "21:00 – 23:00", "title": "Ödüllü Bilişim Tavla Turnuvası", "type": "social" }
+    ]
+  },
+  {
+    "key": "2. Gün",
+    "title": "2. Gün - 28 Kasım 2025",
+    "data": [
+      { "time": "09:30 – 09:35", "title": "İstiklal Marşı ve Saygı Duruşu", "type": "session" },
+      {
+        "time": "09:35 – 09:45",
+        "title": "Açılış Konuşmaları",
+        "type": "talk",
+        "speakers": [
+          "Yavuz TORUN, Kamu-BİB Çalışma Grubu Başkanı",
+          "Bülent BORAN, Ankara Şubesi Yönetim Kurulu Başkanı"
+        ]
+      },
+      {
+        "time": "09:45 – 10:30",
+        "title": "Dijital Türkiye Vizyon Sunumu",
+        "type": "talk",
+        "speakers": ["Davetli Konuşmacı"]
+      },
+      {
+        "time": "10:30 – 11:30",
+        "title": "Oturum-1: Kamu-BİB Çalışma Grubu-1 / Yapay Zekâ Standartları",
+        "type": "session"
+      },
+      { "time": "11:30 – 12:30", "title": "Panel-1: Dijital Dönüşümün Bir Sonrası", "type": "panel" },
+      { "time": "12:30 – 14:00", "title": "Yemek", "type": "social" },
+      {
+        "time": "14:00 – 15:00",
+        "title": "Protokol Konuşmaları",
+        "type": "talk",
+        "speakers": [
+          "Ana Sponsor Konuşmaları",
+          "Kenan Nurhan ALTINSAAT, TBD Genel Başkanı",
+          "Bakan – Bakan Yardımcıları"
+        ]
+      },
+      { "time": "15:00 – 16:30", "title": "Teknoloji Liderleri Buluşması", "type": "panel" },
+      { "time": "16:30 – 17:00", "title": "Stand Ziyaretleri & Networking – B2B/B2G", "type": "social" }
+    ]
+  },
+  {
+    "key": "3. Gün",
+    "title": "3. Gün - 29 Kasım 2025",
+    "data": [
+      {
+        "time": "09:30 – 12:00",
+        "title": "Vizyon 2030 – 7. Kamu ve Sektör Buluşması",
+        "type": "session",
+        "subtitle": "Sadece Davetli Konuklar için"
+      },
+      { "time": "09:30 – 12:00", "title": "Stand Ziyaretleri & Networking – B2B/G", "type": "social" },
+      { "time": "09:30 – 12:00", "title": "Yapay Zeka Proje Üretim Atölyesi", "type": "session" },
+      { "time": "12:00 – 13:30", "title": "Yemek", "type": "social" },
+      { "time": "13:30 – 14:00", "title": "Davetli Konuşmacı", "type": "talk", "speakers": ["Davetli Konuşmacı"] },
+      {
+        "time": "14:00 – 15:00",
+        "title": "Oturum-2: Kamu-BİB Çalışma Grubu-2 / Çevre İklim ve Sürdürülebilirlilik",
+        "type": "session"
+      },
+      { "time": "15:00 – 15:15", "title": "Çay – Kahve Arası", "type": "social" },
+      { "time": "15:15 – 16:15", "title": "Dijital Türkiye, Yatırımlar & Sürdürülebilirlik", "type": "panel" },
+      { "time": "16:15 – 17:00", "title": "Kapanış & Plaket Sunumu", "type": "talk" }
+    ]
+  },
+  {
+    "key": "4. Gün",
+    "title": "4. Gün - 30 Kasım 2025",
+    "data": [
+      { "time": "11:30 – 12:00", "title": "Otelden Çıkış", "type": "social" }
+    ]
+  }
+]
