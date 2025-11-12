@@ -5,7 +5,8 @@
     "data": [
       { "time": "14:00 – 24:00", "title": "Kayıt ve Otele Giriş", "type": "social" },
       { "time": "15:00 – 18:00", "title": "Perge Antik Gezisi", "type": "social" },
-      { "time": "21:00 – 23:00", "title": "Ödüllü Bilişim Tavla Turnuvası", "type": "social" }
+      { "time": "21:00 – 23:00", "title": "Ödüllü Bilişim Tavla Turnuvası", "type": "social" },
+      { "time": "23:00 – 24:00", "title": "Lobide takılma", "type": "social" }
     ]
   },
   {
