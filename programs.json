@@ -5,8 +5,7 @@
     "data": [
       { "time": "14:00 – 24:00", "title": "Kayıt ve Otele Giriş", "type": "social" },
       { "time": "15:00 – 18:00", "title": "Perge Antik Gezisi", "type": "social" },
-      { "time": "21:00 – 23:00", "title": "Ödüllü Bilişim Tavla Turnuvası", "type": "social" },
-      { "time": "23:00 – 24:00", "title": "Lobide takılma", "type": "social" }
+      { "time": "21:00 – 23:00", "title": "Ödüllü Bilişim Tavla Turnuvası", "type": "social" }
     ]
   },
   {
@@ -27,14 +26,37 @@
         "time": "09:45 – 10:30",
         "title": "Dijital Türkiye Vizyon Sunumu",
         "type": "talk",
-        "speakers": ["Davetli Konuşmacı"]
+        "speakers": [
+          "Güngör KAYMAK, HPE Türkiye, Balkanlar, Kafkaslar & Orta Asya Bölgesi Genel Müdürü",
+          "Refik ANADOL, Medya Sanatcısı ve Tasarımcı"
+        ]
       },
       {
         "time": "10:30 – 11:30",
         "title": "Oturum-1: Kamu-BİB Çalışma Grubu-1 / Yapay Zekâ Standartları",
-        "type": "session"
+        "type": "session",
+        "speakers": [
+          "Merve KARATAŞ, TSE",
+          "Erkan UÇANER, T.C. Tarım ve Orman Bakanlığı",
+          "Gamze CİMİLLİ, T.C. Sağlık Bakanlığı",
+          "Gökçe Nur YILMAZ, TED Üniversitesi, Yazılım Mühendisliği Bölümü Başkanı",
+          "Ülkü BAYER, Koplan CEO",
+          "Merve Ayyüce KIZRAK, Hux AI CEO",
+        ]
       },
-      { "time": "11:30 – 12:30", "title": "Panel-1: Dijital Dönüşümün Bir Sonrası", "type": "panel" },
+      {
+        "time": "11:45 – 12:45",
+        "title": "Panel-1: Dijital Dönüşümün Bir Sonrası",
+        "type": "panel",
+        "speakers": [
+          "Halil AKSU (moderatör), Digitopia – CEO, Türkiye Yapay Zekâ İnisiyatifi – Kurucu",
+          "Barış KARAKULLUKÇU, Teknoloji Yatırımcısı | CVC Yapay Zekâ ve Kurumsal İnovasyon Danışmanı",
+          "Mehmet FIRAT, EnerjiSA Bilgi Teknolojileri ve Dijital İş Yönetimi Başkanı",
+          "Dr. F. Orçun ÇETİN, Sabancı Üniversitesi Öğretim Görevlisi",
+          "Mehmet HAKLIDIR, TÜBİTAK Yapay Zekâ Enstitüsü Müdürü",
+          "Vadat TÜFEKÇİ, Palo Alto Bölge Direktörü"
+        ]
+      },
       { "time": "12:30 – 14:00", "title": "Yemek", "type": "social" },
       {
         "time": "14:00 – 15:00",
@@ -43,10 +65,24 @@
         "speakers": [
           "Ana Sponsor Konuşmaları",
           "Kenan Nurhan ALTINSAAT, TBD Genel Başkanı",
-          "Bakan – Bakan Yardımcıları"
+          "Zekeriya ÇOŞTU, T.C. Sanayi ve Teknoloji Bakan Yardımcısı",
+          "Gökhan YAZGI, T.C. Kültür ve Turizm Bakan Yardımcısı",
+          "Fatih DÖNMEZ, TBMM Yapay Zekâ Araştırma Komisyonu Başkanı"
         ]
       },
-      { "time": "15:00 – 16:30", "title": "Teknoloji Liderleri Buluşması", "type": "panel" },
+      {
+        "time": "15:00 – 16:30",
+        "title": "Oturum-3: Teknoloji Liderleri Buluşması",
+        "type": "panel",
+        "speakers": [
+          "Dr. Cebrail TAŞKIN (moderatör), TBD YK Üyesi",
+          "Feyza NARLI, Manpower Türkiye CEO",
+          "Ataman KALKAN, SigortamNet CEO",
+          "Ceyhun ÖZATA, Barikat CEO",
+          "Fatih OTLUOĞLU, Bit Hero CEO",
+          "Bilal GENÇ, A101 İcra Kurulu Üyesi"
+        ]
+      },
       { "time": "16:30 – 17:00", "title": "Stand Ziyaretleri & Networking – B2B/B2G", "type": "social" }
     ]
   },
@@ -70,7 +106,18 @@
         "type": "session"
       },
       { "time": "15:00 – 15:15", "title": "Çay – Kahve Arası", "type": "social" },
-      { "time": "15:15 – 16:15", "title": "Dijital Türkiye, Yatırımlar & Sürdürülebilirlik", "type": "panel" },
+      {
+        "time": "15:15 – 16:15",
+        "title": "Panel 2: Dijital Türkiye, Yatırımlar & Sürdürülebilirlik",
+        "type": "panel",
+        "speakers": [
+          "Ahmet ÖZKAYA, Enerji ve Tabii Kaynaklar Bakanlığı, Enerji İşleri Genel Müdürü",
+          "Prof. Dr. Halil HASAR & Dr. Tuğba DİNÇBAŞ, İklim Değişikliği Başkanlığı",
+          "Hande Merçan AYGEN, T.C. Sanayi ve Teknoloji Bakanlığı, Avrupa Birliği ve Dış İlişkiler Genel Müdür Yardımcısı",
+          "Huzeyfe YILMAZ, İnNova CEO",
+          "Mehmet ERGÜN, TSE Sürdürülebilirlik ve İklim Müdürü – Sanayide Yeşil Dönüşüm"
+        ]
+      },
       { "time": "16:15 – 17:00", "title": "Kapanış & Plaket Sunumu", "type": "talk" }
     ]
   },
