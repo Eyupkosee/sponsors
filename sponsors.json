@@ -39,6 +39,11 @@
           "id": 5,
           "logo": "https://tbd.org.tr/logolar/turktelekom-logo.jpg",
           "website": "https://www.turktelekom.com.tr/"
+        },
+        {
+          "id": 6,
+          "logo": "https://tbd.org.tr/logolar/elitarge-logo.jpg",
+          "website": "https://elitarge.com/"
         }
       ]
     },
@@ -46,17 +51,17 @@
       "type": "ALTIN SPONSORLAR",
       "entries": [
         {
-          "id": 6,
+          "id": 7,
           "logo": "https://www.tbd.org.tr/logolar/turkkep-logo.jpg",
           "website": "https://turkkep.com.tr/"
         },
         {
-          "id": 7,
+          "id": 8,
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2025/10/paloalto-prolink-logo-yeni-192x192.jpg",
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 8,
+          "id": 9,
           "logo": "https://www.tbd.org.tr/logolar/logo-logo.jpg",
           "website": "https://www.logo.com.tr/"
         }
@@ -66,19 +71,24 @@
       "type": "GÜMÜŞ SPONSORLAR",
       "entries": [
         {
-          "id": 9,
+          "id": 10,
           "logo": "https://www.tbd.org.tr/logolar/esri-turkiye-logo.jpg",
           "website": "https://www.esri.com.tr/tr-tr/anasayfa"
         },
         {
-          "id": 10,
+          "id": 11,
           "logo": "https://www.tbd.org.tr/logolar/octox-labs-logo.jpg",
           "website": "https://www.octoxlabs.com/"
         },
         {
-          "id": 11,
+          "id": 12,
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2025/11/icscw-logo-192x192.jpg",
           "website": "https://www.icsfusion.com/"
+        },
+        {
+          "id": 13,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2025/11/redington-symantec-logo-192x192.jpg",
+          "website": "https://www.redington.com.tr/"
         }
       ]
     },
@@ -86,12 +96,12 @@
       "type": "STANT SPONSORLARI",
       "entries": [
         {
-          "id": 12,
+          "id": 14,
           "logo": "https://tbd.org.tr/logolar/medoc-logo.jpg",
           "website": "https://www.medocteknoloji.com.tr/"
         },
         {
-          "id": 13,
+          "id": 15,
           "logo": "https://tbd.org.tr/logolar/betadonanim-logo.jpg",
           "website": "https://www.betadonanim.com.tr/"
         }
@@ -101,7 +111,7 @@
       "type": "ÇAY KAHVE MOLASI SPONSORU",
       "entries": [
         {
-          "id": 13,
+          "id": 16,
           "logo": "https://tbd.org.tr/logolar/kaspersky-logo.jpg",
           "website": "https://www.kaspersky.com.tr/"
         }
@@ -111,9 +121,19 @@
       "type": "YAKA KARTI SPONSORU",
       "entries": [
         {
-          "id":15,
+          "id":17,
           "logo": "https://www.tbd.org.tr/logolar/asirdx-logo.jpg",
           "website": "https://www.asirdx.com/tr-TR/AnaSayfa"
+        }
+      ]
+    },
+    {
+      "type": "UYGULAMA SUNUMU ve GÜVENLİĞİ SPONSORU",
+      "entries": [
+        {
+          "id":18,
+          "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2025/11/prolinkf5-logo-192x192.jpg",
+          "website": "https://www.f5.com/"
         }
       ]
     },
@@ -121,7 +141,7 @@
       "type": "ÇANTA SPONSORU",
       "entries": [
         {
-          "id":16,
+          "id":19,
           "logo": "https://www.tbd.org.tr/logolar/asirdx-logo.jpg",
           "website": "https://www.asirdx.com/tr-TR/AnaSayfa"
         }
@@ -131,14 +151,19 @@
       "type": "DİJİTAL ROZET SPONSORLARI",
       "entries": [
         {
-          "id": 17,
+          "id": 20,
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2025/11/fortinet-logo-scaled-192x192.png",
           "website": "https://www.fortinet.com/"
         },
         {
-          "id": 18,
+          "id": 21,
           "logo": "https://tbd.org.tr/logolar/gentel-logo.jpg",
           "website": "https://www.gentel.com.tr/"
+        },
+        {
+          "id": 22,
+          "logo": "https://tbd.org.tr/logolar/atius-logo.jpg",
+          "website": "https://www.atius.com.tr/"
         }
       ]
     },
@@ -146,14 +171,19 @@
       "type": "ÜRÜN HİZMET SPONSORLARI",
       "entries": [
         {
-          "id": 19,
+          "id": 23,
           "logo": "https://www.tbd.org.tr/logolar/carbonit-logo.jpg",
           "website": "https://carbonit.com.tr/"
         },
         {
-          "id": 20,
+          "id": 24,
           "logo": "https://www.tbd.org.tr/logolar/abt-logo.jpg",
           "website": "https://ankarabt.com/"
+        },
+        {
+          "id": 25,
+          "logo": "https://www.tbd.org.tr/logolar/governid-logo.jpg",
+          "website": "https://portal.governid.com/"
         }
       ]
     },
@@ -161,34 +191,44 @@
       "type": "MEDYA/BASIN SPONSORLARI",
       "entries": [
         {
-          "id": 21,
+          "id": 26,
           "logo": "https://www.kamubib-bimy.org/2025/wp-content/uploads/2025/11/dd-logo-192x192.jpg",
           "website": "https://www.demiroren.com.tr/"
         },
         {
-          "id": 22,
+          "id": 27,
+          "logo": "https://www.tbd.org.tr/logolar/ict-media-logo.jpg",
+          "website": "https://ictmedia.com.tr/"
+        },
+        {
+          "id": 28,
           "logo": "https://www.tbd.org.tr/logolar/bthbaber-logo.jpg",
           "website": "https://www.bthaber.com/"
         },
         {
-          "id": 23,
+          "id": 29,
+          "logo": "https://www.tbd.org.tr/logolar/sentezmedya-logo.jpg",
+          "website": "https://www.sentezmedya.com.tr/"
+        },
+        {
+          "id": 30,
           "logo": "https://www.tbd.org.tr/logolar/bilisimprofesyonelleri-logo.jpg",
           "website": "https://bilisimprofesyonelleri.com/"
         },
         {
-          "id": 24,
-          "logo": "https://www.tbd.org.tr/logolar/bilisim-dergisi-logo.jpg",
-          "website": "https://www.bilisimdergisi.org.tr/"
-        },
-        {
-          "id": 25,
+          "id": 31,
           "logo": "https://tbd.org.tr/logolar/bilisimhaber-logo.jpg",
           "website": "https://www.kamubib-bimy.org/2025/sponsorlar"
         },
         {
-          "id": 26,
-          "logo": "https://www.tbd.org.tr/logolar/ict-media-logo.jpg",
-          "website": "https://ictmedia.com.tr/"
+          "id": 32,
+          "logo": "https://www.tbd.org.tr/logolar/bilisim-dergisi-logo.jpg",
+          "website": "https://www.bilisimdergisi.org.tr/"
+        },
+        {
+          "id": 33,
+          "logo": "https://www.tbd.org.tr/logolar/mediapublica-logo.jpg",
+          "website": "https://mediapublica.co/"
         }
       ]
     },
