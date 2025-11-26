@@ -12,76 +12,87 @@
     "key": "2. Gün",
     "title": "2. Gün - 28 Kasım 2025",
     "data": [
-      { "time": "09:30 – 09:35", "title": "İstiklal Marşı ve Saygı Duruşu", "type": "session" },
+      { "time": "09:30 – 09:35", "title": "Saygı Duruşu ve İstiklal Marşı", "type": "session" },
       {
-        "time": "09:35 – 09:45",
+        "time": "09:35 – 10:00",
         "title": "Açılış Konuşmaları",
         "type": "talk",
         "speakers": [
-          "Yavuz TORUN, Kamu-BİB Çalışma Grubu Başkanı (Teyit Bekleniyor...)",
-          "Bülent BORAN, Ankara Şubesi Yönetim Kurulu Başkanı (Teyit Bekleniyor...)"
+          "Bülent BORAN, Ankara Şubesi Başkanı",
+          "Yavuz TORUN, Kamu-BİB Çalışma Grubu Başkanı",
+          "Olcay YILDIZ, TÜRKKEP Kayıtlı Elektronik Posta Hizmetleri, CEO"
         ]
       },
       {
-        "time": "09:45 – 10:30",
-        "title": "Dijital Türkiye Vizyon Sunumu",
+        "time": "10:00 – 11:00",
+        "title": "Dijital Türkiye Vizyon Sunumları",
         "type": "talk",
         "speakers": [
-          "Güngör KAYMAK, HPE Türkiye, Balkanlar, Kafkaslar & Orta Asya Bölgesi Genel Müdürü (Teyit Bekleniyor...)",
-          "Refik ANADOL, Medya Sanatcısı ve Tasarımcı (Teyit Bekleniyor...)"
+          "Güngör KAYMAK, HPE Türkiye, Balkanlar, Kafkaslar & Orta Asya Bölgesi Genel Müdürü",
+          "Refik ANADOL, Medya Sanatcısı ve Tasarımcı"
         ]
       },
       {
-        "time": "10:30 – 11:30",
+        "time": "11:00 – 12:00",
         "title": "Oturum-1: Kamu-BİB Çalışma Grubu-1 / Yapay Zekâ Standartları",
         "type": "session",
         "speakers": [
-          "Merve KARATAŞ, TSE",
-          "Erkan UÇANER, T.C. Tarım ve Orman Bakanlığı (Teyit Bekleniyor...)",
-          "Gamze CİMİLLİ, T.C. Sağlık Bakanlığı (Teyit Bekleniyor...)",
-          "Gökçe Nur YILMAZ, TED Üniversitesi, Yazılım Mühendisliği Bölümü Başkanı (Teyit Bekleniyor...)",
-          "Ülkü BAYER, Koplan CEO (Teyit Bekleniyor...)",
-          "Merve Ayyüce KIZRAK, Hux AI CEO (Teyit Bekleniyor...)"
+          "Moderatör: İ. İlker TABAK, TBK Bilişim AŞ, YK Bşk. / TBD Denetleme K. Üyesi",
+          "Ülkü BAYER, Koplan CEO",
+          "Av. Özge EVCİ ERALP, Eralp Avukatlık Bürosu",
+          "Doç. Dr. Meltem ERYILMAZ, Ostim Teknik Üniversitesi, Yazılım Mühendisliği Bölümü Öğr. Üyesi",
+          "Dr. Merve KARATAŞ, TSE",
+          "Merve Ayyüce KIZRAK, Hux AI CEO",
+          "Prof. Dr. Gökçe NUR YILMAZ, TED Üniversitesi, Bilgisayar Mühendisliği Bölümü Başkanı"
         ]
       },
       {
-        "time": "11:45 – 12:45",
-        "title": "Panel-1: Dijital Dönüşümün Bir Sonrası",
-        "type": "panel",
+        "time": "12:00 – 13:00",
+        "title": "Oturum-2: Dijital Dönüşümün Bir Sonrası",
+        "type": "session",
         "speakers": [
-          "Halil AKSU (moderatör), Digitopia – CEO, Türkiye Yapay Zekâ İnisiyatifi – Kurucu (Teyit Bekleniyor...)",
-          "Barış KARAKULLUKÇU, Teknoloji Yatırımcısı | CVC Yapay Zekâ ve Kurumsal İnovasyon Danışmanı (Teyit Bekleniyor...)",
-          "Mehmet FIRAT, EnerjiSA Bilgi Teknolojileri ve Dijital İş Yönetimi Başkanı (Teyit Bekleniyor...)",
-          "Dr. F. Orçun ÇETİN, Sabancı Üniversitesi Öğretim Görevlisi (Teyit Bekleniyor...)",
-          "Mehmet HAKLIDIR, TÜBİTAK Yapay Zekâ Enstitüsü Müdürü (Teyit Bekleniyor...)",
-          "Vadat TÜFEKÇİ, Palo Alto Bölge Direktörü (Teyit Bekleniyor...)"
+          "Moderatör: Halil AKSU, Digitopia – CEO, Türkiye Yapay Zeka İnisiyatifi – Kurucu",
+          "Cihan SARI, EZY SuperApp Inc. – Co-founder",
+          "Mehmet FIRAT, EnerjiSA, Bilgi Teknolojileri ve Dijital İş Yönetimi Başkanı",
+          "Dr. F. Orçun ÇETİN, Sabancı Üniversitesi, Siber Güvenlik Programı Akademik Direktörü",
+          "Dr. Osman Gazi GÜÇLÜTÜRK, TÜBİTAK BİLGEM Yapay Zeka Enstitüsü, Yapay Zeka Etiği ve Güvenilir Yapay Zeka Lideri",
+          "Vedat TÜFEKÇİ, Palo Alto Networks Turkiye – CIS Bölge Direktörü"
         ]
       },
-      { "time": "12:30 – 14:00", "title": "Yemek", "type": "social" },
+      { "time": "13:00 – 14:00", "title": "Yemek", "type": "social" },
+      {
+        "time": "14:00 – 15:00",
+        "title": "Ana Sponsor Konuşmaları",
+        "type": "talk",
+        "speakers": [
+          "Cankut SERTLEK, Lenovo Kurumsal Satıştan Sorumlu Genel Müdür Yardımcısı",
+          "Ersin ÖZEL, Casper Satış ve Satış Sonrası Satış Direktörü",
+          "Taşkın ÖKTEM, Mikrolink Genel Müdürü"
+        ]
+      },
       {
         "time": "14:00 – 15:00",
         "title": "Protokol Konuşmaları",
         "type": "talk",
         "speakers": [
-          "Ana Sponsor Konuşmaları",
-          "Kenan Nurhan ALTINSAAT, TBD Genel Başkanı (Teyit Bekleniyor...)",
-          "Zekeriya ÇOŞTU, T.C. Sanayi ve Teknoloji Bakan Yardımcısı (Teyit Bekleniyor...)",
-          "Gökhan YAZGI, T.C. Kültür ve Turizm Bakan Yardımcısı (Teyit Bekleniyor...)",
-          "Prof. Dr. Erhan ARIKLI, K.K.T.C. Bayındırlık ve Ulaştırma Bakanı (Teyit Bekleniyor...)",
-          "Fatih DÖNMEZ, TBMM Yapay Zekâ Araştırma Komisyonu Başkanı (Teyit Bekleniyor...)"
+          "Kenan Nurhan ALTINSAAT, TBD Genel Başkanı",
+          "Zekeriya ÇOŞTU, T.C. Sanayi ve Teknoloji Bakan Yardımcısı *",
+          "Gökhan YAZGI, T.C. Kültür ve Turizm Bakan Yardımcısı *",
+          "Fatih DÖNMEZ, TBMM Yapay Zeka Araştırma Komisyonu Başkanı",
+          "Prof. Dr. Erhan ARIKLI, K.K.T.C. Bayındırlık ve Ulaştırma Bakanı"
         ]
       },
       {
         "time": "15:00 – 16:30",
-        "title": "Oturum-3: Teknoloji Liderleri Buluşması",
-        "type": "panel",
+        "title": "Oturum 3: Teknoloji Liderleri Buluşması: Yapay Zekâ Çağında Liderlik, CEO’ların Gözünden Yeni Oyun Planı",
+        "type": "session",
         "speakers": [
-          "Dr. Cebrail TAŞKIN (moderatör), TBD YK Üyesi (Teyit Bekleniyor...)",
-          "Feyza NARLI, Manpower Türkiye CEO (Teyit Bekleniyor...)",
-          "Ataman KALKAN, SigortamNet CEO (Teyit Bekleniyor...)",
-          "Ceyhun ÖZATA, Barikat CEO (Teyit Bekleniyor...)",
-          "Fatih OTLUOĞLU, Bit Hero CEO (Teyit Bekleniyor...)",
-          "Bilal GENÇ, A101 İcra Kurulu Üyesi (Teyit Bekleniyor...)"
+          "Moderatör: Dr. Cebrail TAŞKIN, TBD YK Üyesi",
+          "Feyza NARLI, Man Power Türkiye CEO",
+          "Ataman KALKAN, SigortamNet CEO",
+          "Yonca ULUSOY, letgo Ceo",
+          "Fatih OTLUOĞLU, Bit Hero CEO",
+          "Bilal GENÇ, A101 İcra Kurulu Üyesi"
         ]
       },
       { "time": "16:30 – 17:00", "title": "Stand Ziyaretleri & Networking – B2B/B2G", "type": "social" }
@@ -98,25 +109,41 @@
         "subtitle": "Sadece Davetli Konuklar için"
       },
       { "time": "09:30 – 12:00", "title": "Stand Ziyaretleri & Networking – B2B/G", "type": "social" },
-      { "time": "09:30 – 12:00", "title": "Yapay Zeka Proje Üretim Atölyesi", "type": "session" },
+      { "time": "09:30 – 12:00", "title": "Yapay Zeka Proje Üretim Atölyesi", "type": "session","speakers": [
+          "Dr. Öğr. Üyesi Ziya KARAKAYA, THK Universitesi, Bilgisayar Mühendisliği Bölüm Başkanı"
+        ]
+      },
       { "time": "12:00 – 13:30", "title": "Yemek", "type": "social" },
-      { "time": "13:30 – 14:00", "title": "Davetli Konuşmacı", "type": "talk", "speakers": ["Davetli Konuşmacı"] },
+      { "time": "13:30 – 14:00", "title": "Davetli Konuşmacı", "type": "talk", "speakers": [
+        "Prof. Levent KURNAZ, Boğaziçi Üniversitesi İklim Bilimci, Sürdürülebilirlik Profesyoneli, LCA Uzmanı, Yazar, Danışman, Green CKA Kurucu Ortağı"
+      ]
+      },
       {
         "time": "14:00 – 15:00",
-        "title": "Oturum-2: Kamu-BİB Çalışma Grubu-2 / Çevre İklim ve Sürdürülebilirlilik",
-        "type": "session"
+        "title": "Oturum-5: Kamu-BİB Çalışma Grubu-2 / Çevre İklim ve Sürdürülebilirlilik",
+        "type": "session",
+        "speakers": [
+          "Muhammed Şerif YILMAZ, Heen Technology CEO",
+          "Salih SOYLU, T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Şehircilik Yazılımları ve Veri Analitiği Dairesi Başkanı",
+          "İsmail BAHADIR, Qbit, Kurucu",
+          "Serkan ATA, Bilgisim, Genel Kooardinatör",
+          "Esra OCAK TAMER, TMF Solutions, CEO",
+          "Doç.Dr. Sırma Oya TEKVAR, Ankara Üniversitesi, Öğretim Üyesi"
+        ]
       },
       { "time": "15:00 – 15:15", "title": "Çay – Kahve Arası", "type": "social" },
       {
         "time": "15:15 – 16:15",
-        "title": "Panel 2: Dijital Türkiye, Yatırımlar & Sürdürülebilirlik",
-        "type": "panel",
+        "title": "Oturum-6 : Dijital Türkiye, Yatırımlar & Sürdürülebilirlik",
+        "type": "session",
         "speakers": [
-          "Ahmet ÖZKAYA, Enerji ve Tabii Kaynaklar Bakanlığı, Enerji İşleri Genel Müdürü (Teyit Bekleniyor...)",
-          "Prof. Dr. Halil HASAR & Dr. Tuğba DİNÇBAŞ, İklim Değişikliği Başkanlığı (Teyit Bekleniyor...)",
-          "Hande Merçan AYGEN, T.C. Sanayi ve Teknoloji Bakanlığı, Avrupa Birliği ve Dış İlişkiler Genel Müdür Yardımcısı (Teyit Bekleniyor...)",
-          "Huzeyfe YILMAZ, İnnova CEO (Teyit Bekleniyor...)",
-          "Mehmet ERGÜN, TSE Sürdürülebilirlik ve İklim Müdürü – Sanayide Yeşil Dönüşüm (Teyit Bekleniyor...)"
+          "Moderatör: Prof. Dr. Ali Serhan KOYUNCUGİL, Yapay Zeka Derneği Başkanı",
+          "Bilal DÜZGÜN, Enerji ve Tabii Kaynaklar Bakanlığı, Enerji Verimliliği ve Çevre Dairesi Başkanı",
+          "Dr. Veysel SELİMOĞLU, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Teknoloji ve Yeşil Dönüşüm Dairesi Başkanı",
+          "Tuba DEMİR DOĞAN, T.C. Sanayi ve Teknoloji Bakanlığı, Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü",
+          "Ahmet Ferhat ÖZTAN, Kamu Gözetim Kurumu",
+          "Mehmet ERGÜN, TSE Sürdürebilirlik ve İklim Müdürü – Sanayide Yeşil Dönüşüm",
+          "Ali Rıza BALI, F5, Türkiye Ülke Müdürü"
         ]
       },
       { "time": "16:15 – 17:00", "title": "Kapanış & Plaket Sunumu", "type": "talk" }
