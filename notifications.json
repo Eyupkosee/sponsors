@@ -55,5 +55,13 @@
     "subtitle": "Yılın en önemli 7. Kamu ve Sektör Buluşması sadece davetli konuklar için birazdan başlıyor.",
     "type": "etkinlik",
     "date": "2025-11-29"
+  },
+  {
+    "id": "9",
+    "title": "TBD KAMUBİB'28 BİMY'32 ETKİNLİĞİ DEĞERLEDİRME ANKETİ",
+    "subtitle": "Görüşleriniz bir sonraki etkinliğimiz için çok değerli.",
+    "type": "anket",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLScFb1cwsqHWazk7Q6dXZ4XmJnWgY7O1QGQoRSlIRjTayS7RXg/viewform?usp=header",
+    "date": "2025-11-25"
   }
 ]
