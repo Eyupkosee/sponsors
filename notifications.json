@@ -57,9 +57,17 @@
     "date": "2025-11-29"
   },
   {
-    "id": "9",
+    "id": "99",
     "title": "TBD KAMUBİB'28 BİMY'32 ETKİNLİĞİ DEĞERLEDİRME ANKETİ",
     "subtitle": "Görüşleriniz bir sonraki etkinliğimiz için çok değerli.",
+    "type": "anket",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLScFb1cwsqHWazk7Q6dXZ4XmJnWgY7O1QGQoRSlIRjTayS7RXg/viewform?usp=header",
+    "date": "2025-11-25"
+  },
+  {
+    "id": "9",
+    "title": "Türkiye'nin önde gelen İklim Bilimcisi ve Yazar şimdi konuşmalarına başlıyor. Sürdürülebilirlik vizyonunu kaçırmayın!",
+    "subtitle": "",
     "type": "anket",
     "link": "https://docs.google.com/forms/d/e/1FAIpQLScFb1cwsqHWazk7Q6dXZ4XmJnWgY7O1QGQoRSlIRjTayS7RXg/viewform?usp=header",
     "date": "2025-11-25"
