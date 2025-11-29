@@ -62,20 +62,27 @@
     "subtitle": "Görüşleriniz bir sonraki etkinliğimiz için çok değerli.",
     "type": "anket",
     "link": "https://docs.google.com/forms/d/e/1FAIpQLScFb1cwsqHWazk7Q6dXZ4XmJnWgY7O1QGQoRSlIRjTayS7RXg/viewform?usp=header",
-    "date": "2025-11-25"
+    "date": "2025-11-29"
   },
   {
     "id": "9",
     "title": "Türkiye'nin önde gelen İklim Bilimcisi ve Yazar şimdi konuşmalarına başlıyor. Sürdürülebilirlik vizyonunu kaçırmayın!",
     "subtitle": "",
     "type": "etkinlik",
-    "date": "2025-11-25"
+    "date": "2025-11-29"
   },
   {
     "id": "10",
     "title": "Çevre İklim ve Sürdürülebilirlilik oturumu başlamak üzere",
     "subtitle": "Heen Technology CEO'su M. Şerif Yılmaz moderatörlüğünde; Çevre Bakanlığı Daire Başkanı, CEO'lar ve Akademisyenler şimdi platformda.",
     "type": "etkinlik",
-    "date": "2025-11-25"
+    "date": "2025-11-29"
+  },
+  {
+    "id": "11",
+    "title": "SON OTURUM: Dijital Türkiye, Yatırımlar & Sürdürülebilirlik Başladı",
+    "subtitle": "Yapay Zeka Derneği Başkanı Prof. Dr. Ali Serhan Koyuncugil moderatörlüğünde; Enerji, Sanayi Bakanlıkları, TSE ve F5 Türkiye yöneticileri şimdi platformda.",
+    "type": "etkinlik",
+    "date": "2025-11-29"
   }
 ]
